@@ -1,0 +1,33 @@
+body {
+  background-color: lightslategray;
+}
+
+h1{
+  text-align: center;
+  font-size: 30px;
+}
+
+
+
+p {
+  border: 15px orange;
+  padding: 50px;
+  margin: 10px;
+  font-size: 25px;
+  }
+
+h2 {
+  font-size: 30px;
+}
+#albums{
+  border-style:groove;
+  border-color: black;
+  border-width: 0.25rem;
+  margin-bottom: 5rem;
+  margin-right: 15rem;
+  padding: 1rem 2rem;
+  font-family: Courier New;
+  font-weight: bold;
+  float: right;
+  center
+}
